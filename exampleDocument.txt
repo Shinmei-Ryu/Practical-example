@@ -1,1 +1,2 @@
 Esto es un ejemplo de archivo creado durante la creacion del espacio de trabajo 
+Este archivo fue modificado únicamente en la rama secundaria, se generara el commit y se pusheara
